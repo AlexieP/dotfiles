@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexie.pommelet@gmail.com
+	name = Alexie Pommelet
